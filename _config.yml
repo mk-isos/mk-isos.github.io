@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name: "Markus(김문기)"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/mkisos.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Aspiring software engineer and future entrepreneur, building projects and sharing insights at mk-isos."
   location: "South Korea"
   email: "mkisos0316@gmail.com"
@@ -136,6 +136,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mk_isos" #"https://instagram.com/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com" #"https://instagram.com/"
 
 # Site Footer
 footer:
